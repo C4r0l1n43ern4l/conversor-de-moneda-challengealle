@@ -11,6 +11,7 @@ Para poder acceder al proyecto se deben seguir los siguientes paso:
 - Dirigise a la opción Code y posteriormente pulsar click en Download.zip
 - Una vez descargado el proyecto se extrae la carpeta la cual se debe abrir con el IDE IntelliJ.
 - Para que el programa funcione correctamente se recomienda importar la biblioteca GSON que debe ser descargada como un archivo .jar.
+  ![estructura-proyecto](https://github.com/C4r0l1n43ern4l/conversor-de-moneda-challengealle/assets/90581744/c96e724d-9bd5-4b9e-a169-733213e71f27)
 ## Abre y ejecuta el proyecto
 - Una vez este abierto el proyecto en el IDE recomendado se debe ejecutar la clase Principal.java para poder usar la aplicación. Seguidamente empezará a visualizar el menú de opciones en donde podrá digitar la opción que desea como se muestra a continuación:
   ![menu-opciones](https://github.com/C4r0l1n43ern4l/conversor-de-moneda-challengealle/assets/90581744/a0ad8095-7a2c-4045-890b-3af1e6855b3c)
