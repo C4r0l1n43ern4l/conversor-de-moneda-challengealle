@@ -1,4 +1,8 @@
 # Challenge_Conversor-De-Moneda
+
+![Badge-Conversor](https://github.com/C4r0l1n43ern4l/conversor-de-moneda-challengealle/assets/90581744/b0f662b5-609f-4b15-b85a-88bb463e388c)
+
+
 Este es un programa que fue desarrollado como un Challenge propuesto por Alura - G6 en la especialización de Backend. El programa consiste en un conversor de moneda en donde el usuario a través de un menú de opciones selecciona una moneda Base, una moneda de conversión y un monto de dinero. Por medio del consumo de la API API Exchangerate se obtendrán los datos necesesarios para realizar dicha conversión.
 ## Funcionalidades del proyecto
 - `Funcionalidad 1:` Mostrar al usuario un menú de opciones.
